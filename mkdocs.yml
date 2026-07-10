@@ -1,0 +1,7 @@
+site_name: cchp
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
