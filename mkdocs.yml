@@ -3,5 +3,12 @@ site_name: cchp
 theme:
   name: material
 
+plugins:
+  - search
+  - blog
+
 nav:
   - Home: index.md
+  - Intro: intro.md
+  - News:
+      - blog/index.md
