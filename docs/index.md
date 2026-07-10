@@ -1,6 +1,6 @@
-\# 도시 지역사회 건강증진 연구실Cities, Communities \& Health Promotion Program
 
 
+도시 지역사회 건강증진 연구실입니다.
 
-Welcome!
+Welcome to the Cities, Communities \& Health Promotion Program
 
